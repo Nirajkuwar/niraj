@@ -1,0 +1,12 @@
+ niraj kwuar 
+
+$name=name 
+
+var = 90;
+
+for(n=90); then
+if {
+crrost the limit }
+else {
+over limit }
+
