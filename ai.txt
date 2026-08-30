@@ -10,4 +10,9 @@ crrost the limit }
 else {
 over limit }
 
+<<<<<<< HEAD
 this is the new change
+=======
+this is the the new line
+
+>>>>>>> ece9bec (complete git commit)
